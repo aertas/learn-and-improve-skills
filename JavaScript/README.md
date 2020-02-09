@@ -1,3 +1,6 @@
 Documents, notes and examples about Javascript 
 
-#### [11 Javascript Consepts](./JavaScript Features)
+- [x] [11 Javascript Consepts](./JavaScriptFeatures/README.md)
+- [ ] React JS 
+- [ ] Redux 
+- [ ] React Native 
