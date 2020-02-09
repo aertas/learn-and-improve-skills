@@ -12,3 +12,4 @@ Documents, notes and examples about Javascript
 - [ ] React Native 
 - [ ] [RxJS](https://rxjs-dev.firebaseapp.com/) 
 - [ ] [D3.js](https://d3js.org/) 
+- [ ] [Vanilla JS](http://vanilla-js.com/) 
