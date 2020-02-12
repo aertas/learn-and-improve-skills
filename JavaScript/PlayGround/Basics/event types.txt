@@ -1,0 +1,100 @@
+Clipboard Events
+
+oncut
+oncopy
+onpaste
+--------------------------
+
+Drag Events
+
+ondrag
+ondragover
+ondragend
+ondragstart
+ondragleave
+ondragenter
+ondrop
+onscroll
+--------------------------
+
+Media Events
+Events for videos, audio and images
+
+ondurationchange
+onemptied
+onended
+onerror
+onseeking
+onloadeddata
+oncuechange
+ontimeupdate
+onloadstart
+onpause
+onplay
+oncanplay
+onplaying
+onprogress
+oncanplaythrough
+onratechange
+onseeked
+onloadedmetadata
+onstalled
+onsuspend
+onabort
+onvolumechange
+onwaiting
+--------------------------
+
+Mouse Events
+
+onclick	
+ondblclick	
+onmousedown	
+onmouseup	
+onmousemove	
+onmouseover	
+onmouseout	
+onwheel	
+--------------------------
+
+Keyboard Events
+
+onkeydown
+onkeyup
+onkeypress
+--------------------------
+
+Form Events
+HTML and HTML5 form events
+
+onchange
+onblur
+oncontextmenu
+oninput
+onfocus
+oninvalid
+onsearch
+onreset
+onselect
+onsubmit
+--------------------------
+
+Window Events
+Events for the window object, including the <body> element
+
+onload
+onunload
+ononline
+onoffline
+onmessage
+onafterprint
+onstorage
+onbeforeprint
+onbeforeunload
+onerror
+onhashchange
+onpageshow
+onpopstate
+onpagehide
+onresize
+--------------------------

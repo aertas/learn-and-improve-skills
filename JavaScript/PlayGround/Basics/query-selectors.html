@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Query Selectors</title>
+</head>
+<body>
+
+<div id="main" style="margin: 0 0 20px 0; font-size: 20px; font-weight: bold;"></div>
+<label>
+    Enter a value <br>
+    <input type="text" class="inp">
+</label>
+
+<script>
+    var main = document.getElementById('main'),
+        inp = document.querySelector('.inp');
+
+    main.innerHTML = 'Hi!';
+
+    inp.focus();
+    inp.style.border = "1px dashed purple";
+    inp.style.padding = "3px 5px";
+    inp.style.outline = "0";
+
+    try {
+        if (1 === 1) {
+            throw "user_error";
+        } else{
+            // Everything is alright
+        }
+    } catch (e) {
+        if (e === "user_error") {
+            console.log("User Error");
+        } else {
+            console.log(e.message);
+        }
+    }
+
+
+</script>
+</body>
+</html>
