@@ -1,5 +1,8 @@
 /**
  * Single Responsibility Principle
+ * You basically have to have just one responsibility and if you need
+ * additional responsibilities then just make other classes they don't really cost you anything.
+ * We use quite often is called separation of concerns.
  */
 const fs = require('fs');
 
@@ -56,6 +59,8 @@ j.addEntry('I cried today.');
 j.addEntry('I ate a bug.');
 console.log(j.toString());
 
+
+/* Single Responsibility Principle */
 let p = new PersistenceManager();
 let filename = './export/journal.txt';
 p.saveToFile(j, filename);
