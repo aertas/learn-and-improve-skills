@@ -1,4 +1,5 @@
-# The Patterns
+# The Patterns 
+*Design principles introduced by Robert C. Martin*  
 
 ### Cretional
 - Builder
