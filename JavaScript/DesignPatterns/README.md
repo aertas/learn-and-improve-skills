@@ -15,7 +15,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
     - Abstract Factory
     - Factory Method
 - **Prototype** <br> A partially of fully initialized object that you copy (clone) and make use of. 
-- **Singleton** <br> 
+- **Singleton** <br> A component which is instantiated only once
 
 #### Structural
 - Adapter
