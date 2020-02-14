@@ -1,15 +1,26 @@
-# The Patterns 
-*Design principles introduced by Robert C. Martin*  
+## SOLID Design Principles
+ 
+- `S`ingle Responsibility Principle
+- `O`pen-Closed Principle
+- `L`iskov Substitution Principle
+- `I`nterface Segregation Principle
+- `D`ependency Inversion Principle
+<br> 
+*S.O.L.I.D design principles introduced by Robert C. Martin*
 
-### Cretional
-- Builder
+## The Patterns 
+#### Cretional
+- **Builder**
+<br>
+*When piecewise object construction is complicated, provide an API for doing it succinctly.*
+
 - Factories
     - Abstract Factory
     - Factory Method
 - Prototype
 - Singleton
 
-### Structural
+#### Structural
 - Adapter
 - Bridge
 - Composite
@@ -18,7 +29,7 @@
 - Flyweight
 - Proxy
 
-### Behavioral
+#### Behavioral
 - Chain of Responsibility
 - Command
 - Interpreter
