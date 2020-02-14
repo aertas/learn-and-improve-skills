@@ -1,3 +1,6 @@
+/**
+ * Creational Factory Abstract
+ */
 const readline = require('readline');
 
 let rl = readline.createInterface({
@@ -30,14 +33,14 @@ class HotDrinkFactory {
 class TeaFactory extends HotDrinkFactory {
     prepare(amount) {
         console.log(`Grind some beans, boil water, pour ${amount}ml`);
-        return new Coffee();
+        return new Tea();
     }
 }
 
 class CoffeeFactory extends HotDrinkFactory {
     prepare(amount) {
         console.log(`Put in tea bag, boil water, pour ${amount}ml`);
-        return new Tea();
+        return new Coffee();
     }
 }
 
