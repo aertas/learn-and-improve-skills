@@ -5,15 +5,12 @@
 - `L`iskov Substitution Principle
 - `I`nterface Segregation Principle
 - `D`ependency Inversion Principle
-<br> 
-*S.O.L.I.D design principles introduced by Robert C. Martin*
+
+S.O.L.I.D design principles introduced by Robert C. Martin
 
 ## The Patterns 
 #### Cretional
-- **Builder**
-<br>
-*When piecewise object construction is complicated, provide an API for doing it succinctly.*
-
+- **Builder** <br> When piecewise object construction is complicated, provide an API for doing it succinctly.
 - Factories
     - Abstract Factory
     - Factory Method

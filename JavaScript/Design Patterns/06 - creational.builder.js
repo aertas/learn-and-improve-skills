@@ -1,6 +1,6 @@
 /**
  * Creational Builder
- * */
+ */
 class Tag {
     static get indentSize() { return 2; }
 
