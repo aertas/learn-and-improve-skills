@@ -11,7 +11,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 ## The Patterns 
 #### Cretional
 - **Builder** <br> When piecewise object construction is complicated, provide an API for doing it succinctly.
-- Factories
+- **Factories** <br> A component responsible solely for the wholesale (not piecewise) creation of objects.
     - Abstract Factory
     - Factory Method
 - Prototype
