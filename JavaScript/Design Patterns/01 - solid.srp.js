@@ -60,6 +60,7 @@ j.addEntry('I ate a bug.');
 console.log(j.toString());
 
 
+
 /* Single Responsibility Principle */
 let p = new PersistenceManager();
 let filename = './export/journal.txt';

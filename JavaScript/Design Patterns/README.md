@@ -14,8 +14,8 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Factories** <br> A component responsible solely for the wholesale (not piecewise) creation of objects.
     - Abstract Factory
     - Factory Method
-- Prototype
-- Singleton
+- **Prototype** <br> A partially of fully initialized object that you copy (clone) and make use of. 
+- **Singleton** <br> 
 
 #### Structural
 - Adapter
