@@ -3,7 +3,7 @@ Documents, notes and examples about Javascript
 
 #### `Documents and Examples`
 - [x] [11 Javascript Consepts](./JavaScriptFeatures/README.md)
-- [ ] [Design Patterns](./DesignPatterns/README.md)
+- [ ] [Design Patterns](./DesignPatterns)
 - [ ] Unit Tests
     - [ ] [Jasmine](https://jasmine.github.io/)
 - [x] ES2015 (ES6)
