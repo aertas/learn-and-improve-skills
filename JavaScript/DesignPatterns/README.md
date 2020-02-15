@@ -24,8 +24,8 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Bridge** <br> A mechanism that decouples an interface (hierarchy) from an implementation.
 - **Composite** <br> A mechanism for treating individual (scalar) objects and compositions of objects in a uniform manner.
 - **Decarator** <br> Facilitates the addition of behaviors to individual objects without inheriting from them.
-- **Facade**
-- **Flyweight**
+- **Facade** <br> Provides a simple, easy to understand/user interface over a large and sophisticated body of code.
+- **Flyweight** <br> A space optimization technique that lets us use less memory by storing externally the data associated with similar objects.
 - **Proxy**
 <br> [Structural Examples](./StructuralExamples)
 
