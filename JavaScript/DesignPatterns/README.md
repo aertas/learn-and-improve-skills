@@ -35,7 +35,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Chain of Responsibility** <br> A chain of components who all get a change to process a command or a query, optionally having default processing implementation and an ability to terminate the processing chain.
 - **Command** <br> An object which represents an instruction to perform a particular action. Contains all the information necessary for the action to be taken.
 - **Interpreter** <br> A component that processes structured text data. Does so by turning it into separate lexical tokens (lexing) and then interpreting sequences of said tokens (parsing).
-- **Iterator**
+- **Iterator** <br> An object that facilitates the traversal of a data structure.
 - **Mediator**
 - **Memento**
 - **Observer**
