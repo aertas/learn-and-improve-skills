@@ -17,7 +17,8 @@ S.O.L.I.D design principles introduced by Robert C. Martin
     - Factory Method
 - **Prototype** <br> A partially of fully initialized object that you copy (clone) and make use of. 
 - **Singleton** <br> A component which is instantiated only once.
-<br> [Cretional Examples](./CreationalExamples)
+
+[Cretional Examples](./CreationalExamples)
 
 #### Structural
 - **Adapter** <br> A construct which adapts an existing interface X to conform to the required interface Y.
@@ -27,18 +28,20 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Facade** <br> Provides a simple, easy to understand/user interface over a large and sophisticated body of code.
 - **Flyweight** <br> A space optimization technique that lets us use less memory by storing externally the data associated with similar objects.
 - **Proxy** <br> A class that functions as an interface to a particular resource. That resource may be remote, expensive to construct, or may require logging or some other added functions.
-<br> [Structural Examples](./StructuralExamples)
+
+[Structural Examples](./StructuralExamples)
 
 #### Behavioral
-- Chain of Responsibility
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
-<br> [Behavioral Examples](./BehavioralExamples)
+- **Chain of Responsibility** <br> A chain of components who all get a change to process a command or a query, optionally having default processing implementation and an ability to terminate the processing chain.
+- **Command**
+- **Interpreter**
+- **Iterator**
+- **Mediator**
+- **Memento**
+- **Observer**
+- **State**
+- **Strategy**
+- **Template Method**
+- **Visitor**
+
+[Behavioral Examples](./BehavioralExamples)
