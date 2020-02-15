@@ -7,7 +7,8 @@
 - `D`ependency Inversion Principle
 
 S.O.L.I.D design principles introduced by Robert C. Martin
-
+<br> [Solid Examples](./SolidExamples)
+  
 ## The Patterns 
 #### Cretional
 - **Builder** <br> When piecewise object construction is complicated, provide an API for doing it succinctly.
@@ -16,6 +17,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
     - Factory Method
 - **Prototype** <br> A partially of fully initialized object that you copy (clone) and make use of. 
 - **Singleton** <br> A component which is instantiated only once.
+<br> [Cretional Examples](./CreationalExamples)
 
 #### Structural
 - **Adapter** <br> A construct which adapts an existing interface X to conform to the required interface Y.
@@ -25,6 +27,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Facade**
 - **Flyweight**
 - **Proxy**
+<br> [Structural Examples](./StructuralExamples)
 
 #### Behavioral
 - Chain of Responsibility
@@ -38,4 +41,4 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - Strategy
 - Template Method
 - Visitor
-
+<br> [Behavioral Examples](./BehavioralExamples)
