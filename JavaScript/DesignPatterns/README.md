@@ -22,7 +22,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 #### Structural
 - **Adapter** <br> A construct which adapts an existing interface X to conform to the required interface Y.
 - **Bridge** <br> A mechanism that decouples an interface (hierarchy) from an implementation.
-- **Composite** 
+- **Composite** <br> A mechanism for treating individual (scalar) objects and compositions of objects in a uniform manner.
 - **Decarator**
 - **Facade**
 - **Flyweight**
