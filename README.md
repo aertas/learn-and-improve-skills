@@ -1,8 +1,8 @@
 Documents and examples for learning and developing the skills I need in my career 
 
 ##### `Programing Languages`
-- [ ] [JavaScript](./JavaScript/README.md) <br />
-- [ ] [Python](./Python/README.md) <br />
+- [ ] [JavaScript](./JavaScript) <br />
+- [ ] [Python](./Python) <br />
 
 ##### `Database And Query Languages`
 - [ ] [PostgreSQL](./postgresql/README.md) <br />
