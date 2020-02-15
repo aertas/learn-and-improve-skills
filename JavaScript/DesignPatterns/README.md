@@ -40,8 +40,8 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Memento** <br> A token/handle representing the system state. Lets us roll back to the state when the token was generated. May or may not directly exposed state information.
 - **Observer** <br> An observer is an object that wishes to be informed about events happening in the system. The entity generating the events is an observable.
 - **State** <br> A pattern in which the object's behavior is determined by its state. An object transitions from one state to another (something needs to trigger a transition).
-- **Strategy**
-- **Template Method**
-- **Visitor**
+- **Strategy** <br> Enables the exact behavior of a system to be selected at run-time.
+- **Template Method** <br> Allows us to define the 'skeleton' of the algorithm, with concrete implementations defined in subclasses.
+- **Visitor** <br> A component (visitor) that knows how to traverse a data structure composed of (possibly related) types.
 
 [Behavioral Examples](./BehavioralExamples)
