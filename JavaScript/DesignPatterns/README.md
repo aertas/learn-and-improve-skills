@@ -26,7 +26,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Decarator** <br> Facilitates the addition of behaviors to individual objects without inheriting from them.
 - **Facade** <br> Provides a simple, easy to understand/user interface over a large and sophisticated body of code.
 - **Flyweight** <br> A space optimization technique that lets us use less memory by storing externally the data associated with similar objects.
-- **Proxy**
+- **Proxy** <br> A class that functions as an interface to a particular resource. That resource may be remote, expensive to construct, or may require logging or some other added functions.
 <br> [Structural Examples](./StructuralExamples)
 
 #### Behavioral
