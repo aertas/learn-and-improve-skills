@@ -15,16 +15,16 @@ S.O.L.I.D design principles introduced by Robert C. Martin
     - Abstract Factory
     - Factory Method
 - **Prototype** <br> A partially of fully initialized object that you copy (clone) and make use of. 
-- **Singleton** <br> A component which is instantiated only once
+- **Singleton** <br> A component which is instantiated only once.
 
 #### Structural
-- Adapter
-- Bridge
-- Composite
-- Decarator
-- Facade
-- Flyweight
-- Proxy
+- **Adapter** <br> A construct which adapts an existing interface X to conform to the required interface Y.
+- **Bridge** 
+- **Composite**
+- **Decarator**
+- **Facade**
+- **Flyweight**
+- **Proxy**
 
 #### Behavioral
 - Chain of Responsibility
