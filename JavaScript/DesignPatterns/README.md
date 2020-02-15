@@ -37,7 +37,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Interpreter** <br> A component that processes structured text data. Does so by turning it into separate lexical tokens (lexing) and then interpreting sequences of said tokens (parsing).
 - **Iterator** <br> An object that facilitates the traversal of a data structure.
 - **Mediator** <br> A component that facilitates communication between other components without them necessarily being aware of each other or having direct (reference) access to each other.
-- **Memento**
+- **Memento** <br> A token/handle representing the system state. Lets us roll back to the state when the token was generated. May or may not directly exposed state information.
 - **Observer**
 - **State**
 - **Strategy**
