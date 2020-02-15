@@ -39,7 +39,7 @@ S.O.L.I.D design principles introduced by Robert C. Martin
 - **Mediator** <br> A component that facilitates communication between other components without them necessarily being aware of each other or having direct (reference) access to each other.
 - **Memento** <br> A token/handle representing the system state. Lets us roll back to the state when the token was generated. May or may not directly exposed state information.
 - **Observer** <br> An observer is an object that wishes to be informed about events happening in the system. The entity generating the events is an observable.
-- **State**
+- **State** <br> A pattern in which the object's behavior is determined by its state. An object transitions from one state to another (something needs to trigger a transition).
 - **Strategy**
 - **Template Method**
 - **Visitor**
