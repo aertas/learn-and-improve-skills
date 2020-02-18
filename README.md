@@ -10,9 +10,10 @@ Documents and examples for learning and developing the skills I need in my caree
 - [ ] [Neo4j](./neo4j/README.md) <br />
 - [ ] [Elasticsearch ](./elasticsearch/README.md) <br />
 
-#### `Development, Deploying and Collaboration` 
+#### `Development, Deploying, Workflow and Collaboration` 
 - [ ] [Jira Software](https://www.atlassian.com/software/jira)
 - [ ] [Confluence ](https://www.atlassian.com/software/confluence)
+- [ ] [Zeit](https://zeit.co/)
 - [ ] [Camunda](https://camunda.com/)
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Kubernetes (K8s)](https://kubernetes.io/)
@@ -21,6 +22,7 @@ Documents and examples for learning and developing the skills I need in my caree
 #### `CI Tools`
 - [ ] [Jenkins](https://jenkins.io/)
 - [ ] [Concourse](https://concourse-ci.org/)
+
 
 #### `Protocols and Standarts`
 - [ ] [OAuth 2.0](https://oauth.net/)

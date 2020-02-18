@@ -6,18 +6,17 @@ Documents, notes and examples about Javascript
 - [ ] [Algorithms in JavaScript](./Algorithms)
 - [ ] Unit Tests
     - [ ] [Jasmine](https://jasmine.github.io/)
+    - [ ] [Jest JS](https://jestjs.io/en/)
 - [x] ES2015 (ES6)
 - [ ] ES2016
 
 #### `Libraries and Frameworks` 
 - [ ] [React JS](./ReactJS)
-- [ ] Redux
 - [ ] React Native 
-- [ ] [Create React App](https://create-react-app.dev/) 
+- [ ] [Babeljs](https://babeljs.io/) 
 - [ ] [RxJS](https://rxjs-dev.firebaseapp.com/) 
 - [ ] [D3.js](https://d3js.org/) 
 - [ ] [Vanilla JS](http://vanilla-js.com/) 
-- [ ] [Jest JS](https://jestjs.io/en/) 
 - [ ] [Webpack](https://webpack.js.org/) 
 - [ ] [Gatsby](https://www.gatsbyjs.org/) 
 - [ ] [Vue.js](https://vuejs.org/) 
